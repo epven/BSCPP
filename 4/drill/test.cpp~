@@ -1,0 +1,10 @@
+#include <iostream>
+#include <algorithm>
+#include <math.h>
+#include "../../std_lib_fac.h"
+using namespace std;
+int main()
+{
+	error("hi");
+	cout << sqrt(-1.2);
+}
